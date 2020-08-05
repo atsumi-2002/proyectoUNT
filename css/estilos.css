@@ -1,0 +1,22 @@
+body{
+    background: paleturquoise;
+}
+.navbar{
+    box-shadow: 2px 2px steelblue;
+}
+.navbar .nav-item .nav-link{
+    color: white;
+}
+.main-header{
+    background: url(../img/principal02.jpg);
+    min-height: 750;
+
+}
+.background-overlay{
+    background: rgba(48, 51, 107,0.5);
+}
+.blog{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
